@@ -1,6 +1,6 @@
 # vagrant.jenkins.slave
 
-This is a set uf scripts to spawn Jenkins slaves on any platform that is supported by Vagrant.
+This is a set of scripts to spawn Jenkins slaves on any platform that is supported by Vagrant.
 
 ## goals
 
@@ -21,3 +21,8 @@ cd /tmp
 wget http://mirrors.jenkins-ci.org/war/latest/jenkins.war
 java -DJENKINS_HOME=jenkinshome -jar jenkins.war
 ```
+
+## TBD
+
+- security
+- proxy
