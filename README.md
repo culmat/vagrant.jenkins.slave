@@ -8,6 +8,8 @@ This is a set of scripts to spawn Jenkins slaves on any platform that is support
 - enterprise friendly
   - slaves can be behind firewalls
     - use JNLP to launch them
+  - proxy handling
+  - security
 
 ## prerequisites 
 
