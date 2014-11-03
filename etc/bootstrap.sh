@@ -3,4 +3,5 @@
 apt-get update
 sudo apt-get install default-jre
 sudo apt-get install git
-cp /vagrant/mounted-vagrant.conf /etc/init/
+cp /vagrant/etc/mounted-vagrant.conf /etc/init/
+/vagrant/bin/startUp.sh
