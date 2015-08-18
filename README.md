@@ -17,7 +17,7 @@ This is a set of scripts to spawn Jenkins slaves on any platform that is support
 
 ## Quick start
 
-We will download a frsh jenkins and work in /tmp, so we do not interfere with any existing installation.
+We will download a fresh jenkins and work in /tmp, so we do not interfere with any existing installation.
 ```
 cd /tmp
 wget http://mirrors.jenkins-ci.org/war/latest/jenkins.war
